@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "node_modules/[^b]*": true,
+    "node_modules/b[^o]*": true,
+    "node_modules/bo[^o]*": true,
+    "node_modules/boo[^t]*": true,
+    "node_modules/boot[^s]*": true,
+    "node_modules/boots[^t]*": true,
+  },
+}
